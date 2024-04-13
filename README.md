@@ -1,6 +1,7 @@
 # Automated Cloud Cost Optimization
 
 This project aims to automate cloud cost optimization using Lambda functions and CloudWatch Events. By automatically managing resources such as EC2 instances, EBS snapshots, S3 buckets, and security groups, it helps to minimize unnecessary spending and improve overall efficiency in AWS environments.
+![diagram](https://github.com/deepak4566/Automated_CloudCostOptimization/blob/main/cloudcost.png)
 
 ## Targeted Resources
 
