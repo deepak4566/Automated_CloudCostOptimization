@@ -1,6 +1,7 @@
-
+#import boto3 module 
 import boto3
 
+# lamda handler
 def lambda_handler(event, context):
     ec2 = boto3.client('ec2')
 
